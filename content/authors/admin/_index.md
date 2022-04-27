@@ -7,8 +7,8 @@ organizations:
   url: http://www.uhu.es/dti
 - name: Universidad de Huelva
   url: https://www.uhu.es
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: Mis lineas de investigación incluyen la integración de información, los algoritmos
+  bioinspirados y el aprendizaje automático
 interests:
 - Artificial Intelligence
 - Computational Linguistics
